@@ -1,0 +1,9 @@
+# Python
+*.pyc
+__pycache__/
+
+# Configuração de ambiente
+.env
+
+# Arquivos de configuração locais
+config.py
