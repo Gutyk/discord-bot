@@ -7,6 +7,3 @@ __pycache__/
 
 # Arquivos de configuração locais
 config.py
-
-#gitignore
-.gitignore
